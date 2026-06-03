@@ -1,0 +1,139 @@
+# Day 1 - Cybersecurity Fundamentals
+
+## Entry-Level Cybersecurity Roles
+
+### Security Analyst / Cybersecurity Analyst / SOC Analyst
+
+Responsibilities:
+
+* Monitor systems and networks for security threats
+* Protect computer and network systems
+* Review security alerts and incidents
+* Install and manage security tools
+* Participate in security audits
+* Help respond to security events
+
+### Security Engineer
+
+Responsibilities:
+
+* Investigate security detections
+* Respond to security incidents
+* Build new detections
+* Improve existing detections
+* Work with other teams to strengthen security
+
+---
+
+## Key Concepts Learned
+
+### Security Audit
+
+* A review of systems, policies, and procedures
+* Used to identify weaknesses and improve security
+
+### Playbook
+
+* Step-by-step guide for investigating alerts
+* Helps analysts know what to look for
+* Creates consistency during investigations
+
+### Compliance
+
+* Following internal policies and external regulations
+* Helps organizations avoid fines and security breaches
+
+### Security Frameworks
+
+* Guidelines used to manage risks
+* Help organizations build stronger security programs
+
+### Security Controls
+
+* Safeguards used to reduce security risks
+* Can be technical, administrative, or physical
+
+### Security Posture
+
+* An organization's overall security readiness
+* Strong security posture = lower risk
+
+---
+
+## Threat Actors
+
+### Threat Actor
+
+* Any person or group that creates a security risk
+
+### Internal Threats
+
+Examples:
+
+* Employee clicks a malicious email link
+* Former employee accesses systems without permission
+* Vendor misuses company data
+
+### External Threats
+
+Examples:
+
+* Hackers
+* Cybercriminal groups
+* Nation-state attackers
+
+---
+
+## Security Domains
+
+### Network Security
+
+Focus:
+
+* Protecting networks
+* Protecting systems and devices
+* Preventing unauthorized access
+
+### Cloud Security
+
+Focus:
+
+* Protecting cloud-based resources
+* Managing user access
+* Securing data stored in the cloud
+
+---
+
+## Programming in Cybersecurity
+
+Programming can be used to:
+
+* Automate repetitive tasks
+* Analyze data
+* Create security tools
+* Improve efficiency
+* Support investigations
+
+---
+
+## Key Takeaways
+
+* Security Analysts monitor and protect systems.
+* Security Engineers build and improve security defenses.
+* Playbooks guide investigations.
+* Compliance helps organizations follow regulations.
+* Security frameworks provide security guidance.
+* Security controls reduce risk.
+* Threats can come from inside or outside an organization.
+* Network security protects infrastructure.
+* Cloud security protects cloud resources.
+* Programming is an important cybersecurity skill.
+
+## Personal Notes
+
+What stood out to me today:
+
+* Cybersecurity involves much more than stopping hackers.
+* Many roles focus on monitoring, investigating, and improving security processes.
+* Playbooks seem very important because they provide a standard process for handling incidents.
+* Cloud security is becoming increasingly important as more companies move their systems to the cloud.
